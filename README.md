@@ -14,4 +14,11 @@ int * &pr = p;
 ++num;
 num.someFunction()
 
+private成员不可继承
+public 继承 继承类可以访问基类的public 与protected（维持访问权限不变）
+
+protected继承 继承类可以访问基类的public 与protected（继承为子类的protected）
+
+private继承 继承类可以访问基类的public 与protected（继承为子类的private）
+
 
