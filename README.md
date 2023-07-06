@@ -9,6 +9,9 @@ int a;
 int *p = &a;
 int * &pr = p;
 
+返回自身对象的引用允许链式操作，比如，return *this
 
+++num;
+num.someFunction()
 
 
