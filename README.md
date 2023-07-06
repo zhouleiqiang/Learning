@@ -21,4 +21,8 @@ protected继承 继承类可以访问基类的public 与protected（继承为子
 
 private继承 继承类可以访问基类的public 与protected（继承为子类的private）
 
+C++中的接口是通过抽象基类和纯虚函数来定义的，主要用到了orvrride 关键字，去重写父类虚函数
+
+
+
 
